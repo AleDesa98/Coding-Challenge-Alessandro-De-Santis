@@ -1,0 +1,85 @@
+body {
+  background-image: url("background.jpg");
+  background-size: cover;
+}
+
+.container{
+  display: block;
+  margin:0px auto;
+  width: 900px;
+  line-height: 2;
+  background-color: rgba(0,0,0,0.5);
+  padding-top: 2%;
+  padding-bottom: 2%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  border-radius: 10px 10px 10px 10px;
+}
+
+#Logo{
+  display:block;
+  margin:0px auto;
+  text-align:center;
+  width: 200px;
+}
+
+#Scritta-verde{
+  color: rgb(0,255,0);
+  font-size: 30px;
+  text-align: center;
+}
+
+.Tasti{
+  display: block;
+  margin:0px auto;
+  text-align:center;
+  width: 800px;
+  line-height: 2;
+  background: rgb(0,255,0);
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.Monopattino{
+  display: block;
+  margin:10px auto;
+  width: 800px;
+
+}
+
+#Grande-bianca{
+  color: white;
+  font-size: 25px;
+}
+
+#Piccola-bianca{
+  color: white;
+  font-size: 15px;
+}
+
+.Barra-carica{
+  display: block;
+  margin:0px auto;
+  text-align:center;
+  width: 800px;
+  line-height: 2;
+}
+
+#Barra-carica-1{
+  width: 100px;
+  background: red;
+  border-radius: 5px 5px 5px 5px;
+}
+
+#Barra-carica-2{
+  width: 600px;
+  background: green;
+  border-radius: 5px 5px 5px 5px;
+}
+
+#Barra-carica-3{
+  width: 300px;
+  background: yellow;
+  border-radius: 5px 5px 5px 5px;
+}
